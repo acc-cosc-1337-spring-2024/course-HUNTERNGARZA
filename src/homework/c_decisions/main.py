@@ -1,4 +1,4 @@
-from src.homework.c_decisions.decisions import get_faculty_rating, get_options_ratio
+from decisions import get_faculty_rating, get_options_ratio
 
 
 user_input_for_options: str = input("Options? >>> ")
