@@ -25,4 +25,3 @@ while True:
     elif user_input == "3":
         if input("continue? ") == "no":
             break
-
